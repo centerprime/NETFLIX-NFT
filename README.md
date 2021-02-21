@@ -1,5 +1,5 @@
 # Binance Hackathon: The Future Is Now - Introducing NETFLIX NFT from Team CenterPrime.
-<p align="center"><img src="http://www.centerprime.technology/static/images/github/netflixnet_logo_002.png" width="35%" height="auto"></p>
+<p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnet_logo_002.png" width="35%" height="auto"></p>
 
 ## Overview
 Our project contributes to the content industry by converting various content
@@ -21,6 +21,8 @@ We have set six challenges for the revolution of the new blockchain content indu
 4. NFT token pricing and fundraising using liquidity pool
 5. Streaming pool to which NFT token content can be streamed
 6. NFT token streaming service that be spent on Netflix content
+
+<p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnft/sidle_1.jpg" width="90%" height="auto"></p>
 
 ## Future
 The technology we provide will provide the following benefits in the future.
