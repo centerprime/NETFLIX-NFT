@@ -1,4 +1,4 @@
-<p align="center"><img src="http://www.centerprime.technology/static/images/github/netflixnet_logo_002.png"></p>
+<p align="center"><img src="http://www.centerprime.technology/static/images/github/netflixnet_logo_002.png" width="50%" height="auto"></p>
 # Binance Hackathon: The Future Is Now - Introducing NETFLIX NFT from Team CenterPrime.
 
 ## Overview
