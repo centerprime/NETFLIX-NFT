@@ -80,28 +80,6 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'tripsia_db',
-#         'USER': 'dbmasteruser',
-#         'PASSWORD': 'MJGhWkOURAms+MD3C?b?Cal.=]:o?k<<',
-#         'HOST': 'ls-06fc5774490b5c5233f27a0e201a1aa2564bbe26.cgfqwqyoicdu.ap-northeast-2.rds.amazonaws.com',  # Or an IP Address that your DB is hosted on
-#         'PORT': '3306',
-#         'OPTIONS': {
-#             # Tell MySQLdb to connect with 'utf8mb4' character set
-#             'charset': 'utf8mb4',
-#         },
-#         # Tell Django to build the test database with the 'utf8mb4' character set
-#         'TEST': {
-#             'CHARSET': 'utf8mb4',
-#             'COLLATION': 'utf8mb4_unicode_ci',
-#
-#         }
-#     }
-# }
-
-
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
 
