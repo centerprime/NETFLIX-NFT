@@ -1,4 +1,4 @@
-<img src="http://13.124.28.86/static/images/main_icon.png">
+<p align="center"><img src="http://13.124.28.86/static/images/main_icon.png"></p>
 # Binance Hackathon: The Future Is Now - Introducing NETFLIX NFT from Team CenterPrime.
 
 ## Overview
