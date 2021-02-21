@@ -21,7 +21,7 @@ We have set six challenges for the revolution of the new blockchain content indu
 5. Streaming pool to which NFT token content can be streamed
 6. NFT token streaming service that be spent on Netflix content
 
-##Future
+## Future
 The technology we provide will provide the following benefits in the future.
 
 1. Expansion of the blockchain content industry
@@ -31,5 +31,5 @@ The technology we provide will provide the following benefits in the future.
 5. Profit diversification through NFT token liquidity
 6. Providing a variety of payment services
 
-##Demo
+## Demo
 [NETFLIX NFT](http://13.124.28.86)
