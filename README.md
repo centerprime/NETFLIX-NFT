@@ -33,4 +33,4 @@ The technology we provide will provide the following benefits in the future.
 6. Providing a variety of payment services
 
 ## Demo
-[NETFLIX NFT](http://13.124.28.86)
+[NETFLIX NFT Demo website](http://13.124.28.86)
