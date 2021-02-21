@@ -11,7 +11,7 @@ making it difficult to assess their actual value. Therefore, we have created a
 technology that can easily make content usable in the blockchain network. We also
 want to make changes to the NFT by tokenizing the actual content, not simply
 storing or exchanging FT or NFT tokens.
-<p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnft/netelixnft_banner_001.jpg" width="90%" height="auto"></p>
+<p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnft/netelixnft_banner_001.jpg" width="100%" height="auto"></p>
 
 ## Challenges
 We have set six challenges for the revolution of the new blockchain content industry.
