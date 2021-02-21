@@ -25,6 +25,7 @@ We have set six challenges for the revolution of the new blockchain content indu
 <p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnft/sidle_1.jpg" width="90%" height="auto"></p>
 <p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnft/sidle_2.jpg" width="90%" height="auto"></p>
 <p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnft/sidle_3.jpg" width="90%" height="auto"></p>
+<p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnft/sidle_4.jpg" width="90%" height="auto"></p>
 
 ## Future
 The technology we provide will provide the following benefits in the future.
