@@ -1,5 +1,5 @@
 # Binance Hackathon: The Future Is Now - Introducing NETFLIX NFT from Team CenterPrime.
-<p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnet_logo_002.png" width="35%" height="auto"></p>
+<p align="center"><img src="https://www.centerprime.technology/static/images/github/netflixnft/netflixnet_logo_002.png" width="35%" height="auto"></p>
 
 ## Overview
 Our project contributes to the content industry by converting various content
