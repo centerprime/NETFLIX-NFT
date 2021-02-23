@@ -1,7 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.0 <0.8.0;
 
-import "../ERC721.sol";
+import "erc721/ERC721.sol";
+
 
 contract SellerNFTToken_ERC721 is ERC721 {
 

@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 import "../../introspection/IERC165.sol";
 
 /**
- * @dev Required interface of an ERC721 compliant contract.
+ * @dev Required interface of an erc721 compliant contract.
  */
 interface IERC721 is IERC165 {
     /**
@@ -39,7 +39,7 @@ interface IERC721 is IERC165 {
 
     /**
      * @dev Safely transfers `tokenId` token from `from` to `to`, checking first that contract recipients
-     * are aware of the ERC721 protocol to prevent tokens from being forever locked.
+     * are aware of the erc721 protocol to prevent tokens from being forever locked.
      *
      * Requirements:
      *
