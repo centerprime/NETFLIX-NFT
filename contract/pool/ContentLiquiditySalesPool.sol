@@ -32,7 +32,7 @@ contract ContentLiquiditySalesPool is Ownable {
         // check tokenId price
         require(_tokenIdPrice > 0);
         // init nftTokenAddress
-        nftTokenAddress = ERC721Full(_nftTokenAddress);
+        nftTokenAddress = ERC721(_nftTokenAddress);
         // init erc20TokenAddress
         erc20TokenAddress = ERC20(_erc20TokenAddress);
         // init tokenIdPrice
