@@ -1,7 +1,7 @@
 pragma solidity =0.5.16;
 
 import './interfaces/INetflixSwapBEP20.sol';
-import 'https://github.com/centerprime/CPXToken/tree/master/v0.6/contracts/math/SafeMath.sol';
+import "../netflix-libs/math/SafeMath.sol";
 
 contract NetflixSwapBEP20 is INetflixSwapBEP20 {
     using SafeMath for uint256;

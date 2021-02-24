@@ -1,10 +1,13 @@
 pragma solidity =0.5.16;
 
 import './interfaces/INetflixSwapPair.sol';
-import './NetflixSwapBEP20.sol';
-import './libraries/UQ112x112.sol';
-import './bep20/IBEP20.sol';
+import './Neflix.sol';
 import './interfaces/INetflixSwapFactory.sol';
+import "../netflix-libs/access/Ownable.sol";
+import "../netflix-libs/gsn/Context.sol";
+import "../netflix-libs/token/erc20/ERC20.sol";
+import "../netflix-libs/utils/UQ112x112.sol";
+import "../netflix-libs/math/SafeMath.sol";
 
 contract NetflixSwapPair is INetflixSwapPair, NetflixSwapBEP20 {
     using SafeMath for uint256;

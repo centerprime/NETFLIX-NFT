@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.0 <0.8.0;
 
-import "https://github.com/centerprime/CPXToken/tree/master/v0.6/contracts/access/Ownable.sol";
-import "https://github.com/centerprime/CPXToken/tree/master/v0.6/contracts/gsn/Context.sol";
-import "https://github.com/centerprime/CPXToken/tree/master/v0.6/contracts/token/ERC20.sol";
-import "https://github.com/centerprime/CPXToken/tree/master/v0.6/contracts/math/SafeMath.sol";
-
+import "../netflix-libs/gsn/Context.sol";
+import "../netflix-libs/token/erc20/ERC20.sol";
+import "../netflix-libs/token/erc721/ERC721.sol";
+import "../netflix-libs/math/SafeMath.sol";
+import "../netflix-libs/access/Ownable.sol";
 
 contract ContentLiquiditySalesPool is Ownable {
 

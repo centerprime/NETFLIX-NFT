@@ -3,11 +3,11 @@ pragma solidity >=0.6.0 <0.8.0;
 
 import "./netflix-libs/access/Ownable.sol";
 import "./netflix-libs/gsn/Context.sol";
-import "./netflix-libs/token/erc20/ERC20.sol";
 import "./netflix-libs/math/SafeMath.sol";
+import "./netflix-libs/token/bep20/BEP20.sol";
 
 
-contract SellerNFTToken_ERC20 is ERC20 {
+contract SellerNFTToken_ERC20 is BEP20 {
 
     struct RECORD {
         address owner;

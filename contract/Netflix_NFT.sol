@@ -1,6 +1,5 @@
 pragma solidity ^0.8.0;
-import "erc721/ERC721.sol";
-
+import "./netflix-libs/token/erc721/ERC721.sol";
 
 contract NETFLIX_NFT is ERC721 {
 
